@@ -1,5 +1,13 @@
 #importing the required package based on the problem numpy ,pandas,sklearn
 # we use the some library like pandas ,numpy,sklearn
+"""
+Problem Statment: Boston House price prediction: Using the provided dataset
+ containing features such as a number of rooms, crime rates, and
+ other relevant factors, design and implement a regression model to
+ accurately predict Boston house prices. Your solution should
+ involve data preprocessing, model selection, training, and
+ evaluation
+ """
 import pandas as g
 import numpy as n
 import matplotlib.pyplot as plt
